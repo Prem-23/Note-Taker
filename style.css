@@ -1,0 +1,38 @@
+body{
+    margin: 0%;
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.container{
+    width: 1000px;
+    margin: auto;
+}
+
+.store{
+    width: 500px;
+    height: 200px;
+}
+
+
+.paras{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background-color: white;
+    font-size: 17px;
+    outline: none;
+}
+.bot{
+    margin-bottom: 30px;
+}
+.btn{
+    margin: 0 3px;
+    border: none;
+    background-color: white;
+    font-size: 16px;
+    outline: none;
+}
+.btn:hover{
+    color: red;
+}
